@@ -1,0 +1,103 @@
+# UNIVERSIDADE EUROPEIA
+## Faculdade de Design, Tecnologia e Comunicação
+
+##### Licenciatura em Engenharia Informática
+##### Djaline Cortez, 20200482, T2
+##### Lesly Gombet, 202103556, T2
+
+##### Nome do projeto: Mambos da banda
+##### <https://github.com/leslygt/g13.Mambos-da-banda>
+
+##### A nossa aplicação é uma conexão entre vendedores e compradores, ao contrário de outras aplicações, esta não exibe o produto, mas conecta o comprador ao vendedor. O cliente procura pelo produto e as lojas aparecem com os seus produtos. O cliente então seleciona em que loja deseja fazer a compra. Isso é conveniente porque reduz o tempo dos clientes, não precisando navegar por um monte de lojas até encontrarem o que desejam, podem simplesmente pesquisar e a aplicação apresentará todas as lojas que estejam a comercializar o produto que desejam e o preço do determinado produto em várias lojas em um só sítio.
+##### A aplicação agregará um conjunto de lojas de produtos para confeção de pratos típicos angolanos e será responsável pelo suporte, marketing e venda de produtos destas lojas, reunindo e priorizando requisitos do produto e do cliente.
+##### Trabalhará em estreita colaboração com gestores e proprietários das lojas nela registadas a fim de garantir que estas atinjam as suas metas de receita e satisfação de clientes.
+
+#### Objetivos e Motivação:
+##### A pretensão com esta aplicação é ajudar pequenos negócios, pessoas que com pouco tentam conseguir uma renda seja essa única ou extra, e pessoas em geral, angolanas ou não, mas que queiram preparar refeições angolanas. 
+##### Tornando a procura e a oferta destes produtos bem mais rápida e prática.
+##### Chegando em Portugal foi difícil procurar por lojas que vendem ingredientes da culinária angolana, muitas das lojas não têm redes sociais/websites, e demoramos bastante tempo a encontrar essas lojas e onde ficam localizadas. Essa dificuldade nos motivou a criar esta aplicação o que ajuda não só os clientes como os vendedores.
+
+#### Público-alvo:
+##### A Mambos da Banda é destinada a pessoas angolanas residentes em Portugal com idades compreendidas entre 16 e 70 anos.
+
+#### Aplicações semelhantes:
+##### Estas são algumas aplicações que achamos que têm objetivos parecidos aos nossos.
+##### *OLX
+##### *Ali Express
+##### *Shopee
+
+#### Guiões:
+##### 1ºCaso:
+##### 1.	O cliente vai para a aba de pesquisa e procura pelo produto;
+##### 2.	Aparecem-lhe todas as lojas com o produto ou com produtos semelhantes e as suas localizações;
+##### 3.	Seleciona a loja; 
+##### 4.	Faz a encomenda do produto; 
+
+#### 2º Caso:
+##### 1.	O proprietário ou gestor regista a sua loja;
+##### 2.	Faz uma descrição sobre a loja;
+##### 3.	Introduz a sua base de dados;
+##### 4.	Coloca a loja disponível; 
+
+#### 3º Caso:
+##### 1.	O cliente vai para a Área de Cliente;
+##### 2.	Acede as compras passadas;
+##### 3.	Seleciona uma compra;
+##### 4.	Solicita o recibo online desta compra;
+
+### Solução a implementar
+##### Descrição genérica da solução a implementar:
+##### Para que consigamos cumprir com os objetivos da nossa aplicação e solucionar o problema por nós encontrado, a nossa aplicação contará comos seguintes utilizadores: 
+##### Administradores: Farão a gestão e o controle da aplicação.
+##### •Fazer a aceitação ou remoção de lojas;
+##### •Remover comentários;
+##### •Gere utilizadores;
+##### •Têm área de cliente;
+
+##### Gestores de loja:   Fazem a gestão e o controle das lojas.
+##### •Registo de lojas;
+##### •Registo da base de dados;
+##### •Gerir bases de dados;
+##### •Têm área de cliente;
+##### Clientes: Utilizarão a aplicação de forma independente, sendo ou não registados.
+#### Registados:
+##### •Pesquisa de produtos;
+##### •Encomenda de produtos;
+##### •Visualizar localização e distância das lojas;
+##### •Visualizar compras passadas;
+##### •Requisitar recibos de compras passadas;
+##### •Fazer comentários;
+##### •Têm área de cliente;
+##### •Lojas favoritas;
+#### Não registados:
+##### Pesquisa de produtos;
+##### •Encomenda de produtos;
+##### •Visualizar localização e distância das lojas;
+
+#### Enquadramento nas unidades curriculares:
+##### Bases de dados – Criação da base de dados, gerenciamento das lojas e produtos destas, 
+##### Programação orientada por objetos – Criação de um servidor, integração da app com a base de dados; 
+##### Programação de dispositivos móveis – Criação da aplicação móvel;
+##### Competências comunicacionais – Preparação para presentações e relatórios;
+##### Projeto de desenvolvimento móvel – Gerenciamento do projeto;
+
+#### Requisitos técnicos:
+##### •	Java
+##### •	Mockups
+##### •	Spring Boot
+
+
+#### Arquitetura da solução:
+##### Será criada uma aplicação móvel e uma base de dados.
+
+#### Tecnologias a utilizar:
+##### •	PgAdmin
+##### •	Visual Studio
+##### •	Android Studio 
+##### •	Postman
+
+#### Planeamento e Calendarização
+</https://sharing.clickup.com/42054052/g/h/183cd4-140/8cc539469f369c6>
+
+### Bibliografia
+#### <https://github.com/pmrosa-classes/ProjDesenvolvimentoMovel-2022-2023>
