@@ -1,0 +1,31 @@
+Guiões
+1º Caso: Cliente
+1. O cliente vai para a aba de pesquisa e procura pelo produto;
+2. Aparecem-lhe todas as lojas com o produto ou com produtos semelhantes e as
+suas localizações;
+3. O cliente escolhe a loja pelo produto ou pela distância;
+4. Faz a encomenda do produto e escolhe se quer que entreguem ou se vai
+recolher.
+5. Recebe o recibo da compra.
+
+2ºCaso: Gestor de loja
+1. O proprietário ou gestor regista a sua loja;
+2. Faz uma descrição sobre a loja;
+3. Introduz a sua base de dados;
+4. Coloca a loja disponível.
+
+3º Caso: Cliente
+1. O cliente vai para a Área de Cliente;
+2. Acede as compras passadas;
+3. Seleciona uma das compras passadas;
+4. Solicita o recibo online desta compra;
+5. Recebe o recibo por email
+
+
+Persona
+Maria, 26 anos, angolana, residente em Portugal há 15 anos;
+
+1.Procura pelo produto;
+2.Visualiza as lojas e as suas localizações;
+3.Seleciona a loja;
+4.Faz a encomenda do produto;
