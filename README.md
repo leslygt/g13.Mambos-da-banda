@@ -15,3 +15,5 @@ Sobre: Na psicologia das cores o "vermelho quando combinado com o amarelo, pode 
 Decidimos combinar o vermelho e amarelo para os nossos clientes terem a sessão de fome e quererem comprar rapidamente os nossos produtos para confessionar os seus prato, como a bandeira de Angola tambem contém o vermelho e amarelo adicionei o preto no cesto e a bandeira de Angola
 
 
+Clickup
+https://app.clickup.com/42054052/v/s/66183327
